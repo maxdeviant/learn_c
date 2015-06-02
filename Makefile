@@ -1,5 +1,2 @@
-build:
-	make ex1
-
 clean:
-	rm -f ex1
+	rm -f ex[0-9]*
