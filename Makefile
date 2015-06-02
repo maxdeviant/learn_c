@@ -1,2 +1,2 @@
 clean:
-	rm -f ex[0-9]*
+	rm -f ex[0-9]
